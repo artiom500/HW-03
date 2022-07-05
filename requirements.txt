@@ -1,0 +1,8 @@
+psycopg2
+flask
+ConfigParser
+configparser
+PyYAML == 5.3
+flask_testing
+pycryptodomex
+ldap3
